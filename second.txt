@@ -1,3 +1,6 @@
-here is my second file
-ot has some different text
+Made a change on line 1
+here is my second file 
+this has some different text
 dont you like my code
+
+
